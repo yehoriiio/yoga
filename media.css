@@ -1,0 +1,268 @@
+@media (max-width:575px) {
+
+  }
+
+@media (max-width:767px) {
+  /* BLOCK-1 */
+  .block-1 {
+    background: url(images/bg-01.jpg) center right -240px / cover;
+  }
+  .block-1__form {
+    margin-left: 20px;
+  }
+  .title {
+    margin-left: -200px;
+    font-weight: 700;
+    max-width: 300px;
+    font-size: 40px;
+  }
+  .text-card__description {
+    margin-left: -200px;
+    max-width: 230px;
+    font-size: 20px;
+  }
+  /* BLOCK-2 */
+  .block-2__title {
+    font-size: 30px;
+    width: 700px;
+    font-weight: 900;
+  }
+  .block-2__description {
+    font-size: 30px;
+  }
+  .card {
+    width: 200px;
+    height: 550px;
+    margin-right: 150px;
+    margin-left: -130px;
+  }
+  .card__img {
+    width: 200px;
+  }
+  .card__title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 35px;
+  }
+  .card__info {
+    padding: 0px 5px;
+  }
+  /* BLOCK-3 */
+  .picture__block-1 {
+    height: 127px;
+    width: 182px;
+    transform: scale(60%);
+  }
+  .picture__block-2 {
+    height: 127px;
+    width: 182px;
+    transform: scale(60%);
+    margin-top: -119px;
+  }
+  .photo {
+    height: 287px;
+    width: 353px;
+    margin-left: -60px;
+  }
+  /* BLOCK-4 */
+  .block-4__title {
+    font-size: 32px;
+    font-weight: 900;
+    margin-left: -130px;
+  }
+  .block-4__photo {
+    transform: scale(60%);
+    margin-left: -70px;
+  }
+  .block-4__text-card__description {
+    width: 300px;
+    margin-left: -130px;
+  }
+  /* BLOCK-5 */
+  .block_5__img-1 {
+    margin-left: -150px;
+  }
+  #block-5__card-title {
+    margin-left: -150px;
+  }
+  #block-5__card-desc {
+    margin-left: -83px;
+    max-width: 150px;
+  }
+  #block-5__card-desc2 {
+    margin-left: -10px;
+  }
+  .block_5__img-3 {
+    margin-right: -50px;
+  }
+  #block-5__card-title3 {
+    margin-right: -40px;
+  }
+  #block-5__card-desc3 {
+    margin-right: -15px;
+    max-width: 190px;
+  }
+  .block_5__img-4 {
+    margin-right: -150px;
+  }
+  #block-5__card-title4 {
+    margin-right: -150px;
+  }
+  #block-5__card-desc4 {
+    margin-right: -140px;
+    max-width: 235px;
+  }
+  .block_5__img-5 {
+    margin-left: -150px;
+  }
+  #block-5__card-title5 {
+    margin-left: -150px;
+  }
+  #block-5__card-desc5 {
+    margin-left: -80px;
+    max-width: 150px;
+  }
+  #block-5__card-desc6 {
+    margin-left: -10px;
+  }
+  .block_5__img-7 {
+    margin-right: -10px;
+  }
+  #block-5__card-title7 {
+    margin-right: -15px;
+    max-width: 190px;
+  }
+  .block_5__img-8 {
+    margin-left: 130px;
+  }
+  #block-5__card-title8 {
+    margin-left: 120px;
+  }
+  #block-5__card-desc8 {
+    margin-right: -140px;
+    max-width: 235px;
+  }
+  /* BLOCK-6 */
+  .block-6__card {
+    height: 380px;
+    width: 270px;
+    margin-top: 200px;
+    margin-left: 0px;
+  }
+  #c1 {
+    margin-left: 30px;
+  }
+  #c2 {
+    margin-left: 100px;
+  }
+  #c3 {
+    margin-left: 80px;
+  }
+  .spam {
+    font-size: 35px;
+  }
+  .spam1 {
+    font-size: 45px;
+  }
+  span {
+    font-size: 10px;
+    font-weight: 900;
+  }
+  .date {
+    font-size: 15px;
+    margin-top: -15px;
+    margin-bottom: 20px;
+    text-decoration: underline darkgray;
+  }
+  .time {
+    font-size: 15px;
+    margin-top: -15px;
+    margin-bottom: 20px;
+    text-decoration: underline darkgray;
+  }
+  .nutrition {
+    margin-bottom: 25px;
+    font-size: 15px;
+    margin-top: -15px;
+  }
+  .block-6__button {
+    background-color:rgb(88, 115, 233);
+    height: 25px;
+    width: 100px;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    }
+  /* BLOCK-7 */
+  .block-7 {
+    background-color: rgb(88, 115, 233);
+    height: 600px;
+    display: block;
+  }
+  .block-7__about {
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    padding-bottom: 60px;
+    margin-left: 15px;
+  
+  }
+  .block-7__desc {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    max-width: 770px;
+    margin-left: 15px;
+  }
+  .block-7__contact {
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    padding-bottom: 60px;
+    margin-top: -350px;
+    margin-left: 15px;
+  }
+  .location {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-bottom: 30px;
+    margin-left: -32px;
+  }
+  .phone-number {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-right: 200px;
+    margin-left: -22px;
+  }
+  .cite {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-right: 200px;
+  }
+  .e-mail {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    padding-left: 115px;
+    padding-right: 160px;
+  }
+  .social {
+    padding-left: 115px;
+    padding-top: 320px;
+  }
+  }
+
+@media (max-width:991px) {
+
+  }
+
+  @media (max-width:1157px) {
+    .block-1 {
+      width: 1158px;
+    }
+  }
